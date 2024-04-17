@@ -9,3 +9,4 @@ while (compteur < 127)
 print_char(compteur);
 compteur = compteur +1;
 }
+}
